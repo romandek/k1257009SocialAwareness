@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">k1257009SocialAwareness</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_real">k1257009.AwareActivity</string>
+	<string name="positionDesc">Position:</string>
+	<string name="default_position">Holding phone</string>
+	<string name="turnOnOff">Sensing:</string>
+	<string name="roomState">Room State:</string>
+	<string name="default_roomstate">Unknown</string>
+	<string name="debugDefaultText">Debugging information here</string>
+	<string name="accelDefaultText">x, y, z</string>
+	<string name="default_whatIsHappening"></string>
+
+</resources>
